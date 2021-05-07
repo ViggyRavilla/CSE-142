@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "week-02",
         "week-01",
-        "week-02"
+        "java class programs"
     ]
 }

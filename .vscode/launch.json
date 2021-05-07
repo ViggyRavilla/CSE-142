@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Difference",
+            "request": "launch",
+            "mainClass": "Difference",
+            "projectName": "CSE-142_cde5724a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mantra",
+            "request": "launch",
+            "mainClass": "Mantra",
+            "projectName": "CSE-142_cde5724a"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickStart",
+            "request": "launch",
+            "mainClass": "QuickStart",
+            "projectName": "CSE-142_cde5724a"
+        },
+        {
+            "type": "java",
+            "name": "Launch calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "CSE-142_cde5724a"
+        },
+        {
+            "type": "java",
+            "name": "Launch easy",
+            "request": "launch",
+            "mainClass": "easy",
+            "projectName": "CSE-142_cde5724a"
+        },
+        {
+            "type": "java",
+            "name": "Launch myfirstgui",
+            "request": "launch",
+            "mainClass": "myfirstgui",
+            "projectName": "CSE-142_cde5724a"
+        }
+    ]
+}
