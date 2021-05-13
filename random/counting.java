@@ -6,10 +6,12 @@ public class counting {
         int num = s.nextInt();
         System.out.println("Enter how many numbers you want to count until");
         int count = s.nextInt();
+        System.out.println("Sequence: ");
         System.out.println(num);
         s.close();
     for(int i=1;i<=count;i++) {
          System.out.println(num+1);
+         num+=1;
      }   
     }
 }
