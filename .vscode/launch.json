@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch morepatterns",
+            "request": "launch",
+            "mainClass": "morepatterns",
+            "projectName": "CSE-142_cde5724a"
+        },
+        {
+            "type": "java",
             "name": "Launch patterns",
             "request": "launch",
             "mainClass": "patterns",
